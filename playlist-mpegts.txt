@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:0,Pervyj kanal +0 HD (Infoline LTD)
+http://flussonic2.intelstellar.xyz/ort1hd/mpegts
