@@ -9,5 +9,14 @@ http://flussonic2.intelstellar.xyz/ort1p1/mpegts
 #EXTINF:0,Pervyj kanal +4 HD (Zap-Sib TransTeleCom) - not so stable
 http://flussonic2.intelstellar.xyz/ort1p4hd/mpegts
 
+#EXTINF:0,Pervyj kanal +4 HD (PJSC Rostelecom)
+http://flussonic2.intelstellar.xyz/ort1p4hd2/mpegts
+
+#EXTINF:0,Pervyj kanal +4 (PJSC Rostelecom)
+http://flussonic2.intelstellar.xyz/ort1p4/mpegts
+
 #EXTINF:0,Rossiya-1 +1 (Infoline LTD)
 http://flussonic2.intelstellar.xyz/russia1p1/mpegts
+
+#EXTINF:0,Rossiya-1 +4 HD (PJSC Rostelecom)
+http://flussonic2.intelstellar.xyz/russia1p4hd/mpegts
